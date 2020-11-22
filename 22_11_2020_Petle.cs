@@ -22,7 +22,6 @@ namespace ConsoleApp3
             do
             {
                 Console.Write("Test!");
-                k++;
             } while (i < 5);
         }
     }
