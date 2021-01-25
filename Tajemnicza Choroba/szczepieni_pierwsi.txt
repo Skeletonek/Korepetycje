@@ -1,0 +1,4 @@
+Pacjenci pierwsi do zaszczepienia w każdej z grup: 
+W grupie 0:       Celina         60,6
+W grupie 1:         Leon         67,5
+W grupie 2:     Honorata         50,6
